@@ -54,7 +54,7 @@ body {
 }
 
 .three {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .four .text-box {
@@ -253,7 +253,7 @@ body {
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 32%;
+    left: 42%;
   }
 }
 
@@ -281,7 +281,7 @@ body {
 
   .six .hat {
     width: 50px;
-    top: -20px;
+    top: -30px;
   }
 
   .wish-hbd {
