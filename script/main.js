@@ -127,7 +127,7 @@ const animationTimeline = () => {
     .from(".idea-4", 0.7, ideaTextTrans)
     .to(".idea-4", 0.7, ideaTextTransLeave, "+=1.5")
     .from(
-      ".sans-dp",
+      ".sans-dp2",
       0.5,
       {
         scale: 3.5,
